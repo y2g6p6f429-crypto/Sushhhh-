@@ -20,7 +20,20 @@ forsiya/
 ├── README.md              you are here
 ├── CNAME                  custom-domain config for GitHub Pages
 └── assets/
-    ├── photos/            put your real photos here
+    ├── photos/
+├── hero.jpg
+
+    │   ├── siya.jpg
+
+    │   ├── gallery-1.jpg
+
+    │   ├── gallery-2.jpg
+
+    │   ├── gallery-3.jpg
+
+    │   └── gallery-4.jpg
+
+    
     ├── music/              (no longer needed — music is a real Spotify embed now; folder kept for optional future use)
     ├── icons/              favicon + manifest icons (already generated)
     └── fonts/              empty — fonts load from Google Fonts by default
